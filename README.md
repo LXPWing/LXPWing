@@ -1,5 +1,7 @@
 ### Hi there 👋
 miHoYo 加强刻晴
+
+Email: 2429727684@qq.com
 <!--
 **LXPWing/LXPWing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
