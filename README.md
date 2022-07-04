@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm SQL boy.
-
-<img src="https://giphy.com/gifs/cute-kawaii-omHPYZttAVAAw/fullscreen" height="40%" width="40%"></img>
+<!-- <iframe src="https://giphy.com/embed/omHPYZttAVAAw" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-kawaii-omHPYZttAVAAw">via GIPHY</a></p> -->
+<img src="https://giphy.com/gifs/cute-kawaii-omHPYZttAVAAw" height="40%" width="40%"></img>
 
 How to reach me: 2429727684@qq.com
 <!--
