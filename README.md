@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm SQL boy.
+
 <img src="https://media2.giphy.com/media/aNFT7eG2rIKK715uLk/giphy.gif?cid=ecf05e47euu1s033oqdt0xe1iuuyo30ur32iwgefsx9w5sth&rid=giphy.gif&ct=g" height="40%" width="40%"></img>
 
 How to reach me: 2429727684@qq.com
