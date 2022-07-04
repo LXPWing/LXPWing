@@ -2,7 +2,7 @@
 
 I'm SQL boy.
 
-<img src="https://giphy.com/gifs/cute-kawaii-omHPYZttAVAAw" height="40%" width="40%"></img>
+<img src="https://giphy.com/gifs/cute-kawaii-omHPYZttAVAAw/fullscreen" height="40%" width="40%"></img>
 
 How to reach me: 2429727684@qq.com
 <!--
