@@ -1,5 +1,6 @@
 ### Hi there 👋
-miHoYo 加强刻晴
+
+<img src="https://media2.giphy.com/media/aNFT7eG2rIKK715uLk/giphy.gif?cid=ecf05e47euu1s033oqdt0xe1iuuyo30ur32iwgefsx9w5sth&rid=giphy.gif&ct=g" height="20px" width="20px"></img>
 
 How to reach me: 2429727684@qq.com
 <!--
