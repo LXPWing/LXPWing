@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm SQL boy.
+I'm Cloud boy.
 
 <img src="https://media4.giphy.com/media/omHPYZttAVAAw/giphy.gif?cid=790b76114f583e86e918df22739f176131aa47d6b2da8575&rid=giphy.gif&ct=g" height="40%" width="40%"></img>
 
