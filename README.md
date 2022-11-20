@@ -4,6 +4,8 @@ I'm Cloud boy.
 
 Tech geeks change the world.（技术宅改变世界）
 
+Consistent daily study.
+
 <img src="https://media4.giphy.com/media/omHPYZttAVAAw/giphy.gif?cid=790b76114f583e86e918df22739f176131aa47d6b2da8575&rid=giphy.gif&ct=g" height="40%" width="40%"></img>
 
 How to reach me: 2429727684@qq.com
