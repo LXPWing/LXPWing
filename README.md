@@ -1,10 +1,9 @@
 ### Hi there 👋
+I am a middleware developer, specializing in Java, go. with a focus on microservices.
 
-I'm Cloud boy.
+Love the “原神” and 3a games.
 
 Tech geeks change the world.（技术宅改变世界）
-
-Consistent daily study.
 
 <img src="https://media4.giphy.com/media/omHPYZttAVAAw/giphy.gif?cid=790b76114f583e86e918df22739f176131aa47d6b2da8575&rid=giphy.gif&ct=g" height="40%" width="40%"></img>
 
