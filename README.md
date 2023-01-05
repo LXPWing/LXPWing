@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Middleware Engineer, specializing in Java, go. with a focus on microservices.
 
-Love the “原神” and 3a games.
+Love the “原神” and 3A games.
 
 Tech geeks change the world.（技术宅改变世界）
 
