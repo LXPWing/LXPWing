@@ -5,7 +5,7 @@ Tech geeks change the world.（技术宅改变世界）
 
 🔧 I am a Software Engineer, specializing in Java, go. with a focus on microservices.
 
-🌱 I’m currently learning Dubbo, Mosn
+🌱 I’m currently learning Dubbo, Mosn, Layotto
 
 🎮 Love “原神” and 3A games.
 
