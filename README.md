@@ -1,7 +1,7 @@
 ### Hi there 👋
 Tech geeks change the world.（技术宅改变世界）
 
-🔭 I’m currently working on mihayou（提瓦特大陆）
+🔭 I’m currently working on mihoyo（提瓦特大陆）
 
 🔧 I am a Software Engineer, specializing in Java, go. with a focus on microservices.
 
