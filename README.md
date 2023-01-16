@@ -3,7 +3,7 @@ Tech geeks change the world.（技术宅改变世界）
 
 🔭 I’m currently working on mihoyo（提瓦特大陆）
 
-🔧 I am a Software Engineer, specializing in Java, go. with a focus on microservices.
+🔧 I am a Software Engineer, specializing in Java, Go. with a focus on microservices.
 
 🌱 I’m currently learning Dubbo, Mosn, Layotto
 
