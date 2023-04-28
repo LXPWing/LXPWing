@@ -7,7 +7,7 @@ Tech geeks change the world.（技术宅改变世界）
 
 🌱 I’m currently learning Dubbo, Mosn, Layotto
 
-🎮 Love “原神” and 3A games.
+🎮 Love “原神”,"星穹轨道" and 3A games.
 
 📫 How to reach me: 2429727684@qq.com
 
